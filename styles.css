@@ -25,10 +25,7 @@ img {
     margin-top: 15px;
 }
 
-.description {
-    padding: 5px;
-}
-
+.description,
 .list {
     padding: 5px;
 }
