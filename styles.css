@@ -1,7 +1,34 @@
-.title {
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title,
+.section-title {
     background-color: purple;
     color: orange;
     text-align: center;
-    margin: 0 0 15px;
     padding: 12px;
+}
+
+img {
+    display: block;
+    width: 80%;
+    max-width: 500px;
+    margin: 15px auto;
+
+}
+
+.section-title {
+    padding: 5px;
+    margin-top: 15px;
+}
+
+.description {
+    padding: 5px;
+}
+
+.list {
+    padding: 5px;
 }
